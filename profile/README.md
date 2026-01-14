@@ -5,6 +5,11 @@ We are looking for new maintainers that want to step up and help run the
 
 Open an issue and express your interest and qualifications if you want to be a maintainer.
 
+## Organization quick statistics
+
+- 350+ team members
+- 100+ public team members
+
 <div align="center">
   <h2>Jorge Araica</h2>
   <a href="https://github.com/summerhill5">
