@@ -16,7 +16,7 @@ Open an issue and express your interest and qualifications if you want to be a m
 
 ---
 
-## Join Our Multi-Project Discord Super-Server 
+## Join Our Multi-Project Discord Server 
 
   <p>
     <a href="https://discord.gg/hKUH56YHXp">
